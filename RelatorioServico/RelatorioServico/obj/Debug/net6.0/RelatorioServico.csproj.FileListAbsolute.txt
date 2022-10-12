@@ -1,0 +1,15 @@
+C:\Users\Lucas\Desktop\Projetos\RelatorioServico\RelatorioServico\RelatorioServico\bin\Debug\net6.0\RelatorioServico.exe
+C:\Users\Lucas\Desktop\Projetos\RelatorioServico\RelatorioServico\RelatorioServico\bin\Debug\net6.0\RelatorioServico.deps.json
+C:\Users\Lucas\Desktop\Projetos\RelatorioServico\RelatorioServico\RelatorioServico\bin\Debug\net6.0\RelatorioServico.runtimeconfig.json
+C:\Users\Lucas\Desktop\Projetos\RelatorioServico\RelatorioServico\RelatorioServico\bin\Debug\net6.0\RelatorioServico.dll
+C:\Users\Lucas\Desktop\Projetos\RelatorioServico\RelatorioServico\RelatorioServico\bin\Debug\net6.0\RelatorioServico.pdb
+C:\Users\Lucas\Desktop\Projetos\RelatorioServico\RelatorioServico\RelatorioServico\obj\Debug\net6.0\RelatorioServico.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Projetos\RelatorioServico\RelatorioServico\RelatorioServico\obj\Debug\net6.0\RelatorioServico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Projetos\RelatorioServico\RelatorioServico\RelatorioServico\obj\Debug\net6.0\RelatorioServico.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Projetos\RelatorioServico\RelatorioServico\RelatorioServico\obj\Debug\net6.0\RelatorioServico.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Projetos\RelatorioServico\RelatorioServico\RelatorioServico\obj\Debug\net6.0\RelatorioServico.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Projetos\RelatorioServico\RelatorioServico\RelatorioServico\obj\Debug\net6.0\RelatorioServico.dll
+C:\Users\Lucas\Desktop\Projetos\RelatorioServico\RelatorioServico\RelatorioServico\obj\Debug\net6.0\refint\RelatorioServico.dll
+C:\Users\Lucas\Desktop\Projetos\RelatorioServico\RelatorioServico\RelatorioServico\obj\Debug\net6.0\RelatorioServico.pdb
+C:\Users\Lucas\Desktop\Projetos\RelatorioServico\RelatorioServico\RelatorioServico\obj\Debug\net6.0\RelatorioServico.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\Projetos\RelatorioServico\RelatorioServico\RelatorioServico\obj\Debug\net6.0\ref\RelatorioServico.dll
